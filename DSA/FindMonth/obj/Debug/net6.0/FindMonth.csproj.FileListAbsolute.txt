@@ -1,0 +1,15 @@
+F:\.Learning\DSA\FindMonth\FindMonth\bin\Debug\net6.0\FindMonth.exe
+F:\.Learning\DSA\FindMonth\FindMonth\bin\Debug\net6.0\FindMonth.deps.json
+F:\.Learning\DSA\FindMonth\FindMonth\bin\Debug\net6.0\FindMonth.runtimeconfig.json
+F:\.Learning\DSA\FindMonth\FindMonth\bin\Debug\net6.0\FindMonth.dll
+F:\.Learning\DSA\FindMonth\FindMonth\bin\Debug\net6.0\ref\FindMonth.dll
+F:\.Learning\DSA\FindMonth\FindMonth\bin\Debug\net6.0\FindMonth.pdb
+F:\.Learning\DSA\FindMonth\FindMonth\obj\Debug\net6.0\FindMonth.csproj.AssemblyReference.cache
+F:\.Learning\DSA\FindMonth\FindMonth\obj\Debug\net6.0\FindMonth.GeneratedMSBuildEditorConfig.editorconfig
+F:\.Learning\DSA\FindMonth\FindMonth\obj\Debug\net6.0\FindMonth.AssemblyInfoInputs.cache
+F:\.Learning\DSA\FindMonth\FindMonth\obj\Debug\net6.0\FindMonth.AssemblyInfo.cs
+F:\.Learning\DSA\FindMonth\FindMonth\obj\Debug\net6.0\FindMonth.csproj.CoreCompileInputs.cache
+F:\.Learning\DSA\FindMonth\FindMonth\obj\Debug\net6.0\FindMonth.dll
+F:\.Learning\DSA\FindMonth\FindMonth\obj\Debug\net6.0\ref\FindMonth.dll
+F:\.Learning\DSA\FindMonth\FindMonth\obj\Debug\net6.0\FindMonth.pdb
+F:\.Learning\DSA\FindMonth\FindMonth\obj\Debug\net6.0\FindMonth.genruntimeconfig.cache
